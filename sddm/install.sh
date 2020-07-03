@@ -39,8 +39,8 @@ prompt () {
 
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
-  prompt -i "\n * Install McConcept10 in ${THEME_DIR}... "
-  cp -r "${REO_DIR}/McConcept10" "${THEME_DIR}"
+  prompt -i "\n * Install WinSur-white in ${THEME_DIR}... "
+  cp -r "${REO_DIR}/WinSur-white" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"
 else

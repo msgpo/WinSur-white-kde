@@ -1,6 +1,6 @@
-## McConcept10 KDE Theme
+## WinSur-white KDE Theme
 
-McConcept10 kde is a light clean theme for KDE Plasma desktop.
+WinSur-white kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
